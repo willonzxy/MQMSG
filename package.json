@@ -19,6 +19,7 @@
   "homepage": "https://github.com/willonzxy/MQMSG#readme",
   "dependencies": {
     "ecstatic": "^3.3.0",
+    "redis": "^2.8.0",
     "ws": "^6.1.3"
   }
 }
